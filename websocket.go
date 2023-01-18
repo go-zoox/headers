@@ -1,0 +1,19 @@
+package headers
+
+// Upgrade ...
+const Upgrade = "Upgrade"
+
+// SecWebSocketKey ...
+const SecWebSocketKey = "Sec-WebSocket-Key"
+
+// SecWebSocketExtensions ...
+const SecWebSocketExtensions = "Sec-WebSocket-Extensions"
+
+// SecWebSocketAccept ...
+const SecWebSocketAccept = "Sec-WebSocket-Accept"
+
+// SecWebSocketVersion ...
+const SecWebSocketVersion = "Sec-WebSocket-Version"
+
+// SecWebSocketProtocol ...
+const SecWebSocketProtocol = "Sec-WebSocket-Protocol"
