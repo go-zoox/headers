@@ -50,3 +50,6 @@ const XDownloadOptions = "X-Download-Options"
 
 // XPermittedCrossDomainPolicies defines a policy for fetching content from a cross-domain policy file (crossdomain.xml).
 const XPermittedCrossDomainPolicies = "X-Permitted-Cross-Domain-Policies"
+
+// CrossOriginEmbedderPolicy (COEP) allows a server to declare an embedder policy for a given document.
+const CrossOriginEmbedderPolicy = "Cross-Origin-Embedder-Policy"
