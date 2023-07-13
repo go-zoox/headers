@@ -15,3 +15,7 @@ const XForwardedProto = "X-Forwarded-Proto"
 
 // Via added by a proxied, both forward and reverse proxies, and can appear in the request headers and the response headers.
 const Via = "Via"
+
+// XRealIP added by a proxied, both forward and reverse proxies, and can appear in
+// the request headers and the response headers.
+const XRealIP = "X-Real-IP"
